@@ -3,5 +3,5 @@
     <version>1.0.0.2</version>
     <url>http://103.199.17.182/KSC_App/KSC_App.zip</url> 
     <changelog>https://github.com/tranlinhpro/ksc/releases</changelog>
-    <mandatory>false</mandatory>
+    <mandatory>true</mandatory>
 </item>
